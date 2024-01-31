@@ -1,3 +1,0 @@
-﻿  Game.cpp
-C:\Users\82107\CS공부_ 코드기록\DiretX11_Studies\week01\week01\Game.cpp(58,43): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  week01.vcxproj -> C:\Users\82107\CS공부_ 코드기록\DiretX11_Studies\week01\Binaries\week01.exe
